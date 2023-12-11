@@ -1,0 +1,15 @@
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\bin\Debug\net6.0\WebApiBitTech.Infrastructure.deps.json
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\bin\Debug\net6.0\WebApiBitTech.Infrastructure.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\bin\Debug\net6.0\WebApiBitTech.Infrastructure.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\bin\Debug\net6.0\WebApiBitTech.Domain.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\bin\Debug\net6.0\WebApiBitTech.Domain.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\WebApiBitTech.Infrastructure.csproj.AssemblyReference.cache
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\WebApiBitTech.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\WebApiBitTech.Infrastructure.AssemblyInfoInputs.cache
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\WebApiBitTech.Infrastructure.AssemblyInfo.cs
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\WebApiBitTech.Infrastructure.csproj.CoreCompileInputs.cache
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\WebApiBitTech.Infrastructure.csproj.CopyComplete
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\WebApiBitTech.Infrastructure.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\refint\WebApiBitTech.Infrastructure.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\WebApiBitTech.Infrastructure.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Infrastructure\obj\Debug\net6.0\ref\WebApiBitTech.Infrastructure.dll

@@ -1,0 +1,11 @@
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\bin\Debug\net6.0\WebApiBitTech.Domain.deps.json
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\bin\Debug\net6.0\WebApiBitTech.Domain.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\bin\Debug\net6.0\WebApiBitTech.Domain.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\obj\Debug\net6.0\WebApiBitTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\obj\Debug\net6.0\WebApiBitTech.Domain.AssemblyInfoInputs.cache
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\obj\Debug\net6.0\WebApiBitTech.Domain.AssemblyInfo.cs
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\obj\Debug\net6.0\WebApiBitTech.Domain.csproj.CoreCompileInputs.cache
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\obj\Debug\net6.0\WebApiBitTech.Domain.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\obj\Debug\net6.0\refint\WebApiBitTech.Domain.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\obj\Debug\net6.0\WebApiBitTech.Domain.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Domain\obj\Debug\net6.0\ref\WebApiBitTech.Domain.dll

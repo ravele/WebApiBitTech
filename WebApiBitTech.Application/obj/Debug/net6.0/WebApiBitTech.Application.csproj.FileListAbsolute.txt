@@ -1,0 +1,17 @@
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\bin\Debug\net6.0\WebApiBitTech.Application.deps.json
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\bin\Debug\net6.0\WebApiBitTech.Application.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\bin\Debug\net6.0\WebApiBitTech.Application.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\bin\Debug\net6.0\WebApiBitTech.Domain.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\bin\Debug\net6.0\WebApiBitTech.Infrastructure.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\bin\Debug\net6.0\WebApiBitTech.Domain.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\bin\Debug\net6.0\WebApiBitTech.Infrastructure.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\WebApiBitTech.Application.csproj.AssemblyReference.cache
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\WebApiBitTech.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\WebApiBitTech.Application.AssemblyInfoInputs.cache
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\WebApiBitTech.Application.AssemblyInfo.cs
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\WebApiBitTech.Application.csproj.CoreCompileInputs.cache
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\WebApiBitTech.Application.csproj.CopyComplete
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\WebApiBitTech.Application.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\refint\WebApiBitTech.Application.dll
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\WebApiBitTech.Application.pdb
+C:\DEV\WebApiBitTech\WebApiBitTech.Application\obj\Debug\net6.0\ref\WebApiBitTech.Application.dll

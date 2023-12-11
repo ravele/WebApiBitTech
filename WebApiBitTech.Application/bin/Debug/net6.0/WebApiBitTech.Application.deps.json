@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApiBitTech.Application/1.0.0": {
+        "dependencies": {
+          "WebApiBitTech.Domain": "1.0.0",
+          "WebApiBitTech.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "WebApiBitTech.Application.dll": {}
+        }
+      },
+      "WebApiBitTech.Domain/1.0.0": {
+        "runtime": {
+          "WebApiBitTech.Domain.dll": {}
+        }
+      },
+      "WebApiBitTech.Infrastructure/1.0.0": {
+        "dependencies": {
+          "WebApiBitTech.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApiBitTech.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiBitTech.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiBitTech.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiBitTech.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
